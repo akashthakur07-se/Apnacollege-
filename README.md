@@ -1,4 +1,4 @@
 # Apnacollege-
 This is my first git repository.
 <br>
-Author -akash thakur
+Author -akash thakur(cse)
